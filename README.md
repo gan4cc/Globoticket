@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GloboTicket Demo Application
 
 This application is intended to demonstrate how to deploy an ASP.NET core application to Kubernetes.
@@ -24,3 +25,7 @@ Then we wil deploy it to a cluster running in Azure, using AKS
 
 
 
+=======
+# Globoticket
+Globoticket
+>>>>>>> 2931a3a5054d3bcf6f251cf1a26940a7709f793c
